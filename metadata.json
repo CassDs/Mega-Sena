@@ -1,0 +1,5 @@
+{
+  "name": "Mega Sena Checker",
+  "description": "A sophisticated Mega Sena ticket checking system featuring Live, Manual, and Bingo modes with instant result validation and celebration animations.",
+  "requestFramePermissions": []
+}
