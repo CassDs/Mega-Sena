@@ -16,6 +16,11 @@ export const TICKETS: TicketData[] = [
   { id: 12, numbers: [6, 14, 33, 46, 49, 54, 57], type: 7, group: 'Bilhetes da Squad Seguros' },
   { id: 13, numbers: [4, 18, 23, 26, 34, 41, 51], type: 7, group: 'Bilhetes da Squad Seguros' },
   { id: 14, numbers: [2, 5, 9, 18, 21, 24, 43, 45, 58], type: 9, group: 'Bilhetes da Squad Seguros' },
+  
+  // Novos Bilhetes da Squad Seguros
+  { id: 21, numbers: [1, 10, 11, 13, 14, 20, 25, 48], type: 8, group: 'Bilhetes da Squad Seguros' },
+  { id: 22, numbers: [4, 13, 16, 23, 48, 51, 56], type: 7, group: 'Bilhetes da Squad Seguros' },
+  { id: 23, numbers: [8, 9, 21, 25, 40, 52, 60], type: 7, group: 'Bilhetes da Squad Seguros' },
 
   // Bilhetes Neurotech
   { id: 15, numbers: [3, 4, 7, 10, 12, 17, 22, 42, 56], type: 9, group: 'Bilhetes Neurotech' },
